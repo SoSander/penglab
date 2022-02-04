@@ -20,7 +20,7 @@ And now, it can also :
 You only need a Google Account to use Google Colab, and to use ngrok for SSH (optional).
 
 ## How to use it ?
-1. Go on : https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb
+1. Go on : https://colab.research.google.com/github/SoSander/penglab/blob/master/penglab.ipynb
 2. Select "**Runtime**", "**Change runtime type**", and set "**Hardware accelerator**" to **GPU**.
 3. Change the config by setting "**True**" at tools you want to install.
 4. Select "**Runtime**" and "**Run all**" !
