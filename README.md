@@ -1,11 +1,11 @@
-# Penglab
+# Hashmoblab (Penglab)
 Abuse of Google Colab for fun and profit. 🐧
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mxrch/penglab/blob/master/penglab.ipynb)
 
 ## What is it ?
 
-**Penglab** is a ready-to-install setup on Google Colab for cracking hashes with an incredible power, really useful for CTFs. *(See benchmarks below.)*
+**Hashmoblab** is a ready-to-install setup on Google Colab for cracking hashes with an incredible power, really useful for CTFs. *(See benchmarks below.)*
 
 It installs by default :
 * Hashcat
